@@ -1,0 +1,9 @@
+body {
+    background-color: whitesmoke;
+}
+
+@media screen and (max-width: 600px) {
+    #tokyopic {
+        width: 100%;
+    }
+  }
