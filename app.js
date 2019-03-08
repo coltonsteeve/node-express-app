@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const hostname = '0.0.0.0';   // set constants
+const hostname = '0.0.0.0'   // set constants
 const port = 3002;
 
 app.use(express.static('public'));
